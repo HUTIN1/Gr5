@@ -1,6 +1,6 @@
 # Gr5
 ## Content
-- [Loi_Bivouac](Loi_Bivouac)
+- [Loi_Bivouac](Loi_Bivouac.md)
 
 
 ## Source
