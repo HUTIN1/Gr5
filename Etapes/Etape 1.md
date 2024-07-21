@@ -14,12 +14,12 @@ locations:
 Non
 ## Avis
 Bon c'est une étape ridiculement petite donc à fusionner avec la suivante.
-
 ## Points d'eau
 [Fontaine à coté de la gare](geo:46.36728,6.481587) tag:fontaine
-
 ## Ravitaillement
 [Boulangerie à coté de la gare](geo:46.36730043595247,6.483018920634549) tag:boulangerie
 [Spar](geo:46.36307566003725,6.478905139665253) tag:supermarché
 ## Options de sortie
 Faire demi-tour
+
+Suivant : [[Etape 2]]

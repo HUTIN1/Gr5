@@ -23,3 +23,6 @@ Camping
 [Super U](geo:46.351989600850565,6.616889855582651) tag:supermarché (gros détour)
 ## Options de sortie
 Faire demi-tour/Descente jusqu'à Evian
+
+Précédente : [[Etape 1]]
+Suivante : [[Etape 3]]

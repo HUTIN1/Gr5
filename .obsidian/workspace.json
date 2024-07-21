@@ -13,34 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Etapes/Etape 5.md",
+                "file": "Etapes/Etape 11.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "1adb1dbd804b3947",
-            "type": "leaf",
-            "state": {
-              "type": "map",
-              "state": {
-                "name": "Default",
-                "mapZoom": 15,
-                "mapCenter": {
-                  "lat": 46.294212439032556,
-                  "lng": 6.782040596008302
-                },
-                "query": "",
-                "chosenMapSource": 0,
-                "showLinks": false,
-                "linkColor": "red",
-                "queryError": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Etapes/Etape 11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Etapes/Etape 11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Etapes/Etape 11.md"
+              }
             }
           }
         ],
@@ -165,14 +148,21 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "1adb1dbd804b3947",
+  "active": "722fa726f4d0dcb4",
   "lastOpenFiles": [
+    "Etapes/README.md",
+    "Etapes/Etape 11.md",
+    "Etapes/Etape 10.md",
+    "Etapes/Etape 9.md",
+    "Etapes/Etape 8.md",
+    "Etapes/Etape 7.md",
+    "Etapes/Etape 6.md",
     "Etapes/Etape 5.md",
     "Etapes/Etape 4.md",
     "Etapes/Etape 3.md",
     "Etapes/Etape 2.md",
     "Etapes/Etape 1.md",
-    "Etapes/README.md",
+    "Étape 1.md",
     "Location added on 2024-07-21T16-45.md",
     "README.md",
     "Loi_Bivouac.md",
