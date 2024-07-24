@@ -4,18 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "f3e42842761c6998",
+        "id": "7092553b7a9cc0c7",
         "type": "tabs",
         "children": [
           {
-            "id": "722fa726f4d0dcb4",
+            "id": "41d02ff4acbb325b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "map",
               "state": {
-                "file": "Etapes/Etape 11.md",
-                "mode": "source",
-                "source": false
+                "name": "Default",
+                "mapZoom": 0,
+                "mapCenter": {
+                  "lat": 27.830500183751397,
+                  "lng": -243.28125000000003
+                },
+                "query": "",
+                "chosenMapSource": 0,
+                "showLinks": false,
+                "linkColor": "red",
+                "queryError": false
               }
             }
           }
@@ -85,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Etapes/Etape 11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Etapes/Etape 11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Etapes/Etape 11.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -148,29 +152,35 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "722fa726f4d0dcb4",
+  "active": "41d02ff4acbb325b",
   "lastOpenFiles": [
+    "Etapes/Etape 14.md",
     "Etapes/README.md",
-    "Etapes/Etape 11.md",
-    "Etapes/Etape 10.md",
-    "Etapes/Etape 9.md",
-    "Etapes/Etape 8.md",
-    "Etapes/Etape 7.md",
-    "Etapes/Etape 6.md",
-    "Etapes/Etape 5.md",
-    "Etapes/Etape 4.md",
-    "Etapes/Etape 3.md",
-    "Etapes/Etape 2.md",
-    "Etapes/Etape 1.md",
-    "Étape 1.md",
-    "Location added on 2024-07-21T16-45.md",
-    "README.md",
-    "Loi_Bivouac.md",
-    "Location added on 2024-07-21T16-44.md",
-    "Location added on 2024-07-21T16-40.md",
-    "Location added on 2024-07-21T16-38.md",
+    "Etapes/Etape 45.md",
+    "Etapes/Etape 44.md",
+    "Etapes/Etape 43.md",
+    "Etapes/Etape 42.md",
+    "Etapes/Etape 41.md",
+    "Etapes/Etape 40.md",
+    "Etapes/Etape 39.md",
+    "Etapes/Etape 38.md",
+    "Etapes/Etape 37.md",
+    "Etapes/Etape 36.md",
+    "Etapes/Etape 35.md",
+    "Etapes/Etape 34.md",
+    "Etapes/Etape 33.md",
+    "Etapes/Etape 32.md",
+    "Etapes/Etape 31.md",
+    "Etapes/Etape 30.md",
+    "Etapes/Etape 29.md",
+    "Etapes/Etape 28.md",
+    "Etapes/Etape 27.md",
+    "Etapes/Etape 26.md",
+    "Etapes/Etape 25.md",
+    "Etapes/Etape 24.md",
+    "Etapes/Etape 23.md",
+    "Etapes/Etape 22.md",
     "Untitled.canvas",
-    "2024-07-21.md",
     "Etapes"
   ]
 }

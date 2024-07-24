@@ -10,7 +10,7 @@ locations:
 [Début](geo:46.077373,6.716765) tag:hike
 [Fin](geo:46.004513,6.791244) tag:refuge 
 ## Zone Naturelle
-Non
+Zone Naturelle de Sixt-Fer-à-Cheval-Passy 
 ## Avis
 Moitié de plat puis juste une section de montée. Possibilité de pousser jusqu'à refuge de Moëde Anterne, si c'est le cas envisager de faire en 2 jours avec les 2 suivantes.
 ## Points d'eau
@@ -26,6 +26,7 @@ Moitié de plat puis juste une section de montée. Possibilité de pousser jusqu
 [Sherpa](geo:46.081003639084095,6.726754408881888) tag:supermarché 
 Refuge
 ## Options de sortie
+Retour à Samoëns
 
 Précédente : [[Etape 7]]
 Suivante : [[Etape 9]]

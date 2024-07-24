@@ -20,6 +20,7 @@ Vraiment tranquille aussi, à combiner avec la précédente
 [Boulangerie](geo:46.29535254771265,6.785054488649717) tag:boulangerie 
 [Proxi](geo:46.29554759600968,6.785003571965155) tag:supermarché 
 ## Options de sortie
+Rentrer depuis la Chapelle d'Abondance
 
 Précédente : [[Etape 3]]
 Suivante : [[Etape 5]]

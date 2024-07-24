@@ -3,38 +3,35 @@ locations:
 ---
 ## Récap topo
 
-| Étapes       | Départ/arrivée                                           | Temps de marche | Distances | Dénivelés         |
-| :----------- | :------------------------------------------------------- | :-------------- | :-------- | :---------------- |
-| **Étape 1**  | Thonon-les-Bains - Armoy                                 | 2h30            | 6 km      | +220 m            |
-| **Étape 2**  | Armoy - Vinzier                                          | 4h              | 13 km     | +650 m / -350 m   |
-| **Étape 3**  | Vinzier - Chalets de Bise                                | 5h              | +16 km    | +1300 m / -600 m  |
-| **Étape 4**  | Chalets de Bise - La Chapelle d'Abondance                | 2h30            | 5 km      | +350 m / -800 m   |
-| **Étape 5**  | La Chapelle d'Abondance - Col de Bassachaux              | 5h              | 13 km     | +1300 m / -450 m  |
-| **Étape 6**  | Col de Bassachaux - Chardonnière                         | 5h              | 15 km     | +500 m ; -900 m / |
-| **Étape 7**  | Chardonnière - Samoëns                                   | 4h              | 10 km     | +250 m / -1000 m  |
-| **Étape 8**  | Samöens - Chalets d'Anterne                              | 6h30            | 15 km     | +1100 m / -100 m  |
-| **Étape 9**  | Chalets d'Anterne - Bel Lachat                           | 6h30            | 16 km     | +1300 m / -900 m  |
-| **Étape 10** | Bel Lachat - Les Houches                                 | 3h              | 6 km      | -1100 m           |
-| **Étape 11** | Les Houches - Les Contamnines-Montjoie                   | 5h              | 15 km     | +900 m / -750 m   |
-| **Étape 12** | Les Contamines-Montjoie - Refuge de la Croix du Bonhomme | 6h              | 13 km     | +1400 m           |
-| **Étape 13** | Refuge de la Croix du Bonhomme - Refuge de Balme         | 7h15            | 18 km     | +1050 m / -1500 m |
-| **Étape 14** | Refuge de Balme - Landry - (Bourg-Saint-Maurice)         | 4h              | 8 km      | -1300 m           |
+| Départ/arrivée                         | Temps de marche | Distances | Dénivelés       |
+| :------------------------------------- | :-------------- | :-------- | :-------------- |
+| Les Houches - Les Contamnines-Montjoie | 5h              | 15 km     | +900 m / -750 m |
 ## Carto  
-[Début](geo:45.922419,6.829606) tag:hike
-[Fin](geo:45.891406,6.788199) tag:camping  
+[Début](geo:45.891406,6.788199) tag:hike
+[Fin](geo:45.817104,6.72491) tag:refuge 
 ## Zone Naturelle
 Non
 ## Avis
 Option camping, chambre d'hôte ou refuge.
-Etape grosse blague, largement fusionnable avec les 2 précédentes pour faire en 2 jours.
+Etape méga relou, montée puis descente et beaucoup de route. 
 ## Points d'eau
-[Torrent de Lapaz](geo:45.912515,6.82104) tag:rivière 
-[Fontaine](geo:45.889538,6.795891) tag:fontaine 
+[Source](geo:45.885231,6.778699) tag:fontaine 
+[Source](geo:45.884234,6.777101) tag:fontaine 
+[Source](geo:45.88109,6.78096) tag:fontaine 
+[Source](geo:45.877355,6.76816) tag:fontaine 
+[Source](geo:45.847674,6.736793) tag:fontaine 
+[Source](geo:45.846074,6.733273) tag:fontaine 
+[Source](geo:45.844325,6.730783) tag:fontaine 
+[Source](geo:45.838068,6.724512) tag:fontaine 
+[Fontaine](geo:45.82209,6.72627) tag:fontaine 
 ## Ravitaillement
-[Carrefour Contact](geo:45.889783714798526,6.798303764815669) tag:supermarché 
-[Boulangerie](geo:45.890361152171394,6.798214339065535) tag:boulangerie  
+[Refuge](geo:45.871764,6.760419) tag:restaurant 
+[Aux délices de Montjoie](geo:45.822483088296146,6.7270768931027565) tag:boulangerie  
+[Carrefour Montagne](geo:45.821743001521526,6.727201832772047) tag:supermarché 
+[Spar](geo:45.8204968037166,6.727678165406436) tag:supermarché 
+
 ## Options de sortie
-Train
+Retour à Chamonix
 
 Précédente : [[Etape 10]]
 Suivante : [[Etape 12]]

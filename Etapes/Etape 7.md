@@ -22,7 +22,7 @@ Full descente, à combiner avec les 3 précédentes pour en faire que 2 jours.
 ## Ravitaillement
 [Refuge de la Golèse](geo:46.129896,6.763037) tag:restaurant
 ## Options de sortie
-Descente à Champéry
+Descente à Samoëns
 
 Précédente : [[Etape 6]]
 Suivante : [[Etape 8]]
