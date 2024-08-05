@@ -8,7 +8,8 @@ locations:
 | Les Houches - Les Contamnines-Montjoie | 5h              | 15 km     | +900 m / -750 m |
 ## Carto  
 [Début](geo:45.891406,6.788199) tag:hike
-[Fin](geo:45.817104,6.72491) tag:refuge 
+### Bivouac
+[Gite d'étape les Mélèzes](geo:45.817104,6.72491) tag:refuge Méga cher
 ## Zone Naturelle
 Non
 ## Avis

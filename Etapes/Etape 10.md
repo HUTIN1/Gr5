@@ -8,7 +8,8 @@ locations:
 | Bel Lachat - Les Houches | 3h              | 6 km      | -1100 m   |
 ## Carto  
 [Début](geo:45.922419,6.829606) tag:hike
-[Fin](geo:45.891406,6.788199) tag:camping  
+### Bivouac
+[Camping Bellevue](geo:45.891406,6.788199) tag:camping  ferme le 21 septembre
 ## Zone Naturelle
 Non
 ## Avis

@@ -8,6 +8,8 @@ locations:
 | Refuge de la Croix du Bonhomme - Refuge de Balme | 7h15            | 18 km     | +1050 m / -1500 m |
 ## Carto  
 [Début](geo:45.72236,6.717018) tag:hike
+### Bivouac
+[Refuge du Plan de la Lai](geo:45.63241,6.669181) tag:refuge 
 [Fin](geo:45.63241,6.669181) tag:refuge 
 ## Zone Naturelle
 Réserve Naturelle des Contamines-Montjoie

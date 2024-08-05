@@ -8,7 +8,9 @@ locations:
 | Chalets de Bise - La Chapelle d'Abondance | 2h30            | 5 km      | +350 m / -800 m |
 ## Carto  
 [Début](geo:46.3305544,6.7656126) tag:hike
-[Fin](geo:46.295658,6.786519) tag:hotel
+## Bivouac
+[Gite d'étape Au Gai Soleil](geo:46.295658,6.786519) tag:hotel
+Ouvert jusqu'à mi-septembre
 ## Zone Naturelle
 Zone Naturelle Protégée des Cornettes de Bise
 ## Avis

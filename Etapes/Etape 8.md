@@ -8,7 +8,9 @@ locations:
 | Samöens - Chalets d'Anterne | 6h30            | 15 km     | +1100 m / -100 m |
 ## Carto  
 [Début](geo:46.077373,6.716765) tag:hike
-[Fin](geo:46.004513,6.791244) tag:refuge 
+### Bivouac
+Peut être des trucs à Sixt-Fer-à-Cheval
+[Refuge Alfred Wills](geo:46.004513,6.791244) tag:refuge ferme le 28 septembre
 ## Zone Naturelle
 Zone Naturelle de Sixt-Fer-à-Cheval-Passy 
 ## Avis

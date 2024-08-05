@@ -8,8 +8,9 @@ locations:
 | Vinzier - Chalets de Bise | 5h              | +16 km    | +1300 m / -600 m |
 ## Carto
 [Debut](geo:46.346592392220536,6.608651876449586) tag:hike 
-[Fin](geo:46.3305544,6.7656126) tag:refuge
-Chalet-Refuge de Bise
+# Bivouac
+[Refuge de la Bise](geo:46.3305544,6.7656126) tag:refuge
+Chalet-Refuge de Bise ouvert jusqu'à mi-octobre.
 ## Zone Naturelle
 Zone Naturelle Protégée des Cornettes de Bise
 ## Avis

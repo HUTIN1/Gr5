@@ -8,7 +8,9 @@ locations:
 | Col de Bassachaux - Chardonnière | 5h              | 15 km     | +500 m ; -900 m / |
 ## Carto  
 [Début](geo:46.222415,6.772146) tag:hike
-[Fin](geo:46.140572,6.774117) tag:refuge 
+### Bivouac
+[Refuge de Chésery](geo:46.19644365,6.812948737674587) tag:refuge ferme le 14 septembre PAR CONTRE MEGA CHER
+[Refuge de Chardonnière](geo:46.140572,6.774117) tag:refuge ferme le 20 septembre
 ## Zone Naturelle
 Non
 ## Avis
@@ -21,7 +23,7 @@ A combiner avec la précédente et la suivante en 2 jours.
 Refuge
 ## Ravitaillement
 Connaissant les Suisses, il y a peut être un distributeur sur le chemin.
-[Refuge de Chésery](geo:46.19644365,6.812948737674587) tag:restaurant 
+
 Refuge
 ## Options de sortie
 Descente à Champéry

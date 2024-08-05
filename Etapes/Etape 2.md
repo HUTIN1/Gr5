@@ -8,8 +8,8 @@ locations:
 | Armoy - Vinzier                                          | 4h              | 13 km     | +650 m / -350 m   |
 ## Carto
 [Debut](geo:46.3479165,6.5195025) tag:hike
-[Fin](geo:46.346592392220536,6.608651876449586) tag:camping 
-Un vrai camping : l'Essert
+# Bivouac
+Le camping de l'Essert ferme le 31 août fait chier.
 ## Zone Naturelle
 Non
 ## Avis

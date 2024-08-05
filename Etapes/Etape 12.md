@@ -8,7 +8,11 @@ locations:
 | Les Contamines-Montjoie - Refuge de la Croix du Bonhomme | 6h              | 13 km     | +1400 m           |
 ## Carto  
 [Début](geo:45.817104,6.72491) tag:hike
-[Fin](geo:45.72236,6.717018) tag:refuge 
+###  Bivouac
+[Camping le Pontet](geo:45.80280129998262,6.721808945791264) tag:camping  ferme le 1er novembre
+[Refuge de Nant-Borrant](geo:45.80280129998262,6.721808945791264) tag:refuge   ferme le 25 septembre BON PLAN
+[Refuge de Nant-Borrant](geo:45.80280129998262,6.721808945791264) tag:refuge   ferme le **15 septembre** MEGA CHER mais bivouac gratuit à coté
+[Refuge de la Croix du Bonhomme](geo:45.72236,6.717018) tag:refuge ferme le 20 septembre
 ## Zone Naturelle
 Réserve Naturelle des Contamines-Montjoie
 ## Avis
