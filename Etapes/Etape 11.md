@@ -30,7 +30,6 @@ Etape méga relou, montée puis descente et beaucoup de route.
 [Aux délices de Montjoie](geo:45.822483088296146,6.7270768931027565) tag:boulangerie  
 [Carrefour Montagne](geo:45.821743001521526,6.727201832772047) tag:supermarché 
 [Spar](geo:45.8204968037166,6.727678165406436) tag:supermarché 
-
 ## Options de sortie
 Retour à Chamonix
 

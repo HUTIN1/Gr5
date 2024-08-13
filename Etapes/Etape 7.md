@@ -10,7 +10,7 @@ locations:
 [Début](geo:46.140572,6.774117) tag:hike
 ### Bivouac
 [Refuge de la Golèse](geo:46.129896,6.763037) tag:refuge ferme le 20 octobre
-[Fin](geo:46.077373,6.716765) tag:camping  toute l'année
+[Camping Le Giffre](geo:46.077373,6.716765) tag:camping toute l'année
 ## Zone Naturelle
 Non
 ## Avis

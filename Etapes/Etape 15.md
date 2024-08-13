@@ -8,7 +8,9 @@ locations:
 | Landry - Refuge de Rosuel | 4h              | 11 km     | +1100 m / -400 m |
 ## Carto  
 [Début](geo:45.576255,6.736182) tag:hike
-[Fin](geo:45.518307,6.804763) tag:refuge 
+## Bivouac
+[Les Lanchettes](geo:45.530742,6.77647) tag:camping ferme le **15 septembre**
+[Refuge de Rosuel](geo:45.518307,6.804763) tag:refuge ferme le 30 septembre
 ## Zone Naturelle
 Non
 ## Avis
@@ -20,7 +22,7 @@ Encore une étape méga pépère
 [Fontaine](geo:45.524254,6.790522) tag:fontaine 
 ## Ravitaillement
 [Boulangerie](geo:45.54655006741151,6.755853930643108) tag:boulangerie 
-Refuge ?
+Refuge : pas de bouffe le soir mais cuisine
 ## Options de sortie
 Retour vers Bourg-St-Maurice
 

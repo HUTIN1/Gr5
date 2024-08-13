@@ -8,7 +8,11 @@ locations:
 | Refuge de Balme - Landry - (Bourg-Saint-Maurice) | 4h              | 8 km      | -1300 m   |
 ## Carto  
 [Début](geo:45.63241,6.669181) tag:hike
-[Fin](geo:45.576255,6.736182) tag:camping  
+
+## Bivouac
+La plagne mais bon TO DO
+[l’Eden de la Vanoise](geo:45.576255,6.736182) tag:camping ferme 22 septembre. Option bungalow si dispo. A voir le tarif
+[Canopée](geo:45.569068,6.739487) tag:camping ferme le 15 octobre. Option bungalow aussi mais cher. Camping pas cher
 ## Zone Naturelle
 Non
 ## Avis

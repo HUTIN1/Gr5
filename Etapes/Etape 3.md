@@ -9,8 +9,7 @@ locations:
 ## Carto
 [Debut](geo:46.346592392220536,6.608651876449586) tag:hike 
 # Bivouac
-[Refuge de la Bise](geo:46.3305544,6.7656126) tag:refuge
-Chalet-Refuge de Bise ouvert jusqu'à mi-octobre.
+[Refuge de la Bise](geo:46.3305544,6.7656126) tag:refuge ouvert jusqu'à mi-octobre.
 ## Zone Naturelle
 Zone Naturelle Protégée des Cornettes de Bise
 ## Avis

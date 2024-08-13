@@ -8,7 +8,10 @@ locations:
 | Montgenèvre - Briançon | 2h30            | 9 km      | +150 m / -800 m |
 ## Carto  
 [Début](geo:44.93105,6.723574) tag:hike
+## Bivouac
 [Fin](geo:44.897931,6.637851) tag:hotel 
+camping les cinq vallées
+TO DO
 ## Zone Naturelle
 Non
 ## Avis

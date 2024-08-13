@@ -8,16 +8,16 @@ locations:
 | Les Contamines-Montjoie - Refuge de la Croix du Bonhomme | 6h              | 13 km     | +1400 m           |
 ## Carto  
 [Début](geo:45.817104,6.72491) tag:hike
-###  Bivouac
-[Camping le Pontet](geo:45.80280129998262,6.721808945791264) tag:camping  ferme le 1er novembre
-[Refuge de Nant-Borrant](geo:45.80280129998262,6.721808945791264) tag:refuge   ferme le 25 septembre BON PLAN
-[Refuge de Nant-Borrant](geo:45.80280129998262,6.721808945791264) tag:refuge   ferme le **15 septembre** MEGA CHER mais bivouac gratuit à coté
+### Bivouac
+[Camping le Pontet](geo:45.80280129998262,6.721808945791264) tag:camping ferme le 1er novembre
+[Refuge de Nant-Borrant](geo:45.778739,6.714221) tag:refuge ferme le 25 septembre BON PLAN
+[Refuge de la Balme](geo:45.75776,6.71117) tag:refugeFermé ferme le **15 septembre** MEGA CHER mais bivouac gratuit à coté
+Détour : [Refuge des Prés](geo:45.763384,6.701498) tag:refuge ferme le 26 octobre MEGA CHER
 [Refuge de la Croix du Bonhomme](geo:45.72236,6.717018) tag:refuge ferme le 20 septembre
 ## Zone Naturelle
 Réserve Naturelle des Contamines-Montjoie
 ## Avis
 Option camping, chambre d'hôte ou refuge.
-Etape méga relou, montée puis descente et beaucoup de route. 
 ## Points d'eau
 [Source](geo:45.802594,6.724934) tag:fontaine 
 [Source](geo:45.884234,6.777101) tag:fontaine 
@@ -28,9 +28,7 @@ Etape méga relou, montée puis descente et beaucoup de route.
 [Source](geo:45.764491,6.712559) tag:fontaine 
 [Source](geo:45.760855,6.711389) tag:fontaine 
 ## Ravitaillement
-[Refuge du Nant Borrant](geo:45.778724,6.714296) tag:restaurant 
-[Refuge de la Balme](geo:45.757596,6.711138) tag:restaurant 
-Refuge
+Refuge de Nant-Borrant et Refuge de la Balme
 ## Options de sortie
 Retour à Chamonix
 

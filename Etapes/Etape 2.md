@@ -9,7 +9,7 @@ locations:
 ## Carto
 [Debut](geo:46.3479165,6.5195025) tag:hike
 # Bivouac
-Le camping de l'Essert ferme le 31 août fait chier.
+Le camping de l'Essert ferme le 31 août fait chier. TO DO
 ## Zone Naturelle
 Non
 ## Avis
