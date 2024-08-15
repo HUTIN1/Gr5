@@ -3,13 +3,13 @@ locations:
 ---
 ## Récap topo
 
-| Départ/arrivée                                           | Temps de marche | Distances | Dénivelés         |
-| :------------------------------------------------------- | :-------------- | :-------- | :---------------- |
-| Armoy - Vinzier                                          | 4h              | 13 km     | +650 m / -350 m   |
+| Départ/arrivée  | Temps de marche | Distances | Dénivelés       |
+| :-------------- | :-------------- | :-------- | :-------------- |
+| Armoy - Vinzier | 4h              | 13 km     | +650 m / -350 m |
 ## Carto
 [Debut](geo:46.3479165,6.5195025) tag:hike
 # Bivouac
-Le camping de l'Essert ferme le 31 août fait chier. TO DO
+Le [Camping de l'Essert](geo:46.346693,6.608976) tag:refugeFermé ferme le 31 août fait chier. TO DO
 ## Zone Naturelle
 Non
 ## Avis

@@ -11,15 +11,16 @@ locations:
 ## Bivouac
 [Camping de L’izoard](geo:44.799875650000004,6.716310350073915) tag:refugeFermé ferme le 15 septembre
 TO DO
-[Fin](geo:44.756186,6.789738) tag:hotel 
+Quelques hôtels/gites mais cher
 ## Zone Naturelle
 Parc Naturel Régional du Queyras
 ## Avis
 ETAPE DE MERDE
 ## Points d'eau
-
+[Torrent des Ayes](geo:44.845022,6.659089) tag:rivière
 ## Ravitaillement
-
+[Le Jamberoute](geo:44.79476,6.723952) tag:restaurant 
+TO DO
 ## Options de sortie
 
 Précédente : [[Etape 28]]

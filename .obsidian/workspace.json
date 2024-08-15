@@ -8,31 +8,38 @@
         "type": "tabs",
         "children": [
           {
+            "id": "45ffede8d150050d",
+            "type": "leaf",
+            "state": {
+              "type": "map",
+              "state": {
+                "name": "Default",
+                "mapZoom": 1,
+                "mapCenter": {
+                  "lat": 40.44694705960048,
+                  "lng": -180.70312500000003
+                },
+                "query": "",
+                "chosenMapSource": 0,
+                "showLinks": false,
+                "linkColor": "red",
+                "queryError": false
+              }
+            }
+          },
+          {
             "id": "5f0dd055a138f686",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Etapes/Etape 25.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "45ffede8d150050d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Etapes/Etape 25.md",
+                "file": "Etapes/Etape 43.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Etapes/Etape 25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +121,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Etapes/Etape 25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Etapes/Etape 25.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -163,32 +166,32 @@
   },
   "active": "45ffede8d150050d",
   "lastOpenFiles": [
+    "Etapes/Etape 31.md",
+    "Etapes/Etape 43.md",
+    "Etapes/Etape 35.md",
+    "Etapes/Etape 37.md",
+    "Etapes/Etape 2.md",
+    "Etapes/Etape 1.md",
+    "Etapes/Etape 34.md",
+    "Etapes/Etape 33.md",
+    "Etapes/Etape 32.md",
+    "Etapes/Etape 29.md",
+    "Etapes/Etape 30.md",
+    "Etapes/Etape 25.md",
+    "Etapes/Etape 28.md",
+    "Etapes/Etape 27.md",
+    "Etapes/Etape 26.md",
     "Etapes/Etape 24.md",
     "Etapes/Etape 23.md",
     "Etapes/Etape 22.md",
     "Etapes/Etape 17.md",
+    "Etapes/Etape 18.md",
     "Etapes/Etape 16.md",
     "Etapes/Etape 15.md",
-    "Etapes/Etape 14.md",
-    "Etapes/Etape 11.md",
-    "Etapes/Etape 12.md",
-    "Etapes/Etape 13.md",
-    "Etapes/Etape 10.md",
-    "Etapes/Etape 9.md",
-    "Etapes/Etape 3.md",
-    "Etapes/Etape 4.md",
-    "Etapes/Etape 5.md",
-    "Etapes/Etape 6.md",
-    "Etapes/Etape 7.md",
     "Etapes/Etape 8.md",
-    "Etapes/Etape 2.md",
-    "Etapes/Etape 1.md",
-    "Etapes/Etape 25.md",
-    "Etapes/Etape 26.md",
-    "Etapes/Etape 28.md",
-    "Etapes/Etape 27.md",
-    "Etapes/Etape 29.md",
-    "Etapes/Etape 30.md",
+    "Etapes/Etape 45.md",
+    "Etapes/Etape 38.md",
+    "Etapes/Etape 36.md",
     "Untitled.canvas",
     "Etapes"
   ]

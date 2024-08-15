@@ -2,7 +2,6 @@
 locations: 
 ---
 ## Récap topo
-## Récap topo
 
 | Départ/arrivée           | Temps de marche | Distances | Dénivelés |
 | :----------------------- | :-------------- | :-------- | :-------- |

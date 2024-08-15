@@ -13,7 +13,7 @@ locations:
 ## Avis
 
 ## Points d'eau
-
+Y'en a pas
 ## Ravitaillement
 
 ## Options de sortie

@@ -15,11 +15,12 @@ TO DO
 ## Zone Naturelle
 Non
 ## Avis
-Etape tranquille
+Etape carrément nulle. Ma suggestion c'est d'essayer de prendre le bus pour la sauter : https://www.autocars-resalp.com/lignes-horaires/briancon-montgenevre
 ## Points d'eau
 ## Ravitaillement
 
 ## Options de sortie
+On peut rentrer depuis Briançon
 
 Précédente : [[Etape 27]]
 Suivante : [[Etape 29]]

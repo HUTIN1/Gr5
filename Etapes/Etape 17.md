@@ -17,7 +17,6 @@ Encore une étape méga pépère
 TIGNES
 ## Ravitaillement
 TIGNES
-
 ## Options de sortie
 Bon on est dans la civilisation là
 
