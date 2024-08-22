@@ -14,12 +14,12 @@
               "type": "map",
               "state": {
                 "name": "Default",
-                "mapZoom": 1,
+                "mapZoom": 16,
                 "mapCenter": {
-                  "lat": 40.44694705960048,
-                  "lng": -180.70312500000003
+                  "lat": 44.2539854988066,
+                  "lng": 6.926107406616212
                 },
-                "query": "",
+                "query": "tag:#camping OR tag:#hotel OR tag:#refuge OR tag:#refugeFermé ",
                 "chosenMapSource": 0,
                 "showLinks": false,
                 "linkColor": "red",
@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Etapes/Etape 43.md",
+                "file": "Etapes/Etape 38.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,14 +166,16 @@
   },
   "active": "45ffede8d150050d",
   "lastOpenFiles": [
-    "Etapes/Etape 31.md",
-    "Etapes/Etape 43.md",
-    "Etapes/Etape 35.md",
+    "Etapes/Etape 38.md",
     "Etapes/Etape 37.md",
-    "Etapes/Etape 2.md",
-    "Etapes/Etape 1.md",
+    "Etapes/Etape 36.md",
+    "Etapes/Etape 35.md",
     "Etapes/Etape 34.md",
     "Etapes/Etape 33.md",
+    "Etapes/Etape 43.md",
+    "Etapes/Etape 1.md",
+    "Etapes/Etape 2.md",
+    "Etapes/Etape 31.md",
     "Etapes/Etape 32.md",
     "Etapes/Etape 29.md",
     "Etapes/Etape 30.md",
@@ -190,8 +192,6 @@
     "Etapes/Etape 15.md",
     "Etapes/Etape 8.md",
     "Etapes/Etape 45.md",
-    "Etapes/Etape 38.md",
-    "Etapes/Etape 36.md",
     "Untitled.canvas",
     "Etapes"
   ]
