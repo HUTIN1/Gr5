@@ -1,0 +1,26 @@
+
+Cahier des charges de l'appli:
+	-carte rando hors ligne
+	- lecture fichier gpx
+	- gps
+	- bonus si l'appli est fluide et peut nous apporté plus d'information util
+
+| Nom Appli      | gps | lecture gpx                                                 | carte rando hors lign                | prix           | commentaire                                                                            | bonus                                                | Respect Cahier des charges |
+| -------------- | --- | ----------------------------------------------------------- | ------------------------------------ | -------------- | -------------------------------------------------------------------------------------- | ---------------------------------------------------- | -------------------------- |
+| gpx viewer     | oui | oui                                                         | non pas promi                        | gratuit        | possède plusieurs carte, mais la carte avec le chemin de rando est longue à charger    |                                                      | non                        |
+| gpx viewer pro | oui | oui                                                         | oui                                  | 9$             | la carte de rando très lente à charger (nom carte ign: opentopomap)                    |                                                      | oui                        |
+| IGNrando       | oui | oui                                                         | oui(mais version paytante)           | 17$/an         | c est l appli de la carte IGN, il faut payer, très bonne fluidité pour la navigation   |                                                      | oui                        |
+| Carte IGN      | non | non                                                         | non                                  | gratuit        | ne répond pas à nos atteintes                                                          |                                                      | non                        |
+| FFrando        |     |                                                             |                                      |                | peut pas test, mais pense pas que ca fonctionne                                        |                                                      | non                        |
+| bergfex        | oui | oui                                                         | oui (mais version payante)           | 16.76$/an      | très impressionner de l appli, fluide, bon UI                                          | affiche le dénivelé de chaque étape, stat d'activité | oui                        |
+| Alltrails      | oui | non                                                         | oui (mais version payante)           | $              | ne répond pas à nos atteintes                                                          |                                                      | non                        |
+| maps.me        | oui | non                                                         | oui (mais pas sur d'avoir les rando) | gratuit        |                                                                                        |                                                      | non                        |
+| Iphigénie      | oui | je sais pas                                                 | surement                             | gratuit        | impossible à utiliser l'UI est dégueulasse, le truc date du moyen age                  |                                                      | non                        |
+| Whympr         | oui | oui                                                         | oui                                  | 14$ pour 3mois | peu pas tester les fonctionnalité (un peu la haine), mais potentiellement un bon choix |                                                      | oui                        |
+| Outdooractive  | oui | oui                                                         | oui                                  | 34$/an         | appli normal, peut nous indiquer le nom des montagnes en réalité augmenté              |                                                      | oui                        |
+| Komoot         | oui | oui (normalement, il n'a pas réussi à ouvrir la map du gr5) | oui                                  |                | à ne pas utiliser n'arrive pas à charger une map                                       |                                                      | non                        |
+| visorando      | oui | oui                                                         | oui                                  | 6$ pour 1 mois | donne le dénivelé, mais ne précise pas les étapes                                      |                                                      | oui                        |
+
+Les 3 meilleurs appli sont IGNrando, bergfex et visorando. 
+Cout de coeur pour bergfex, qui donne le dénivelé de chaque étape, peut donner la durée d'une étape, et fait des stats par rapport à nos activités.
+Visorando peut être aussi un bon choix

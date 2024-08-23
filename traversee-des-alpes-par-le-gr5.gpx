@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="VisuGPX - https://www.visugpx.com">
+  <metadata>
+    <name>Traversée des alpes par le GR5</name>
+    <desc><![CDATA[Traversée des Alpes par le GR5. Nord_Sud.]]></desc>
+  </metadata>
+  <trk>
+    <name><![CDATA[Traversée des alpes par le GR5_1]]></name>
+    <trkseg>
+      <trkpt lat="46.36936" lon="6.48255">
+        <ele>437</ele>
+      </trkpt>
+      <trkpt lat="46.3686" lon="6.48317">
+        <ele>444</ele>
+      </trkpt>
+      <trkpt lat="46.36795" lon="6.48315">
+        <ele>449</ele>
+      </trkpt>
+      <trkpt lat="46.36679" lon="6.48157">
+        <ele>447</ele>
+      </trkpt>
+      <trkpt lat="46.36524" lon="6.48132">
+        <ele>447</ele>
+      </trkpt>
+      <trkpt lat="46.3636" lon="6.4812">
+        <ele>453</ele>
+      </trkpt>
+      <trkpt lat="46.3614" lon="6.48405">
+        <ele>461</ele>
+      </trkpt>
+      <trkpt lat="46.36012" lon="6.4847">
+        <ele>473</ele>
+      </trkpt>
+      <trkpt lat="46.3556" lon="6.48989">
+        <ele>503</ele>
+      </trkpt>
+      <trkpt lat="46.35544" lon="6.4902">
+        <ele>506</ele>
+      </trkpt>
+      <trkpt lat="46.35521" lon="6.49194">
+        <ele>508</ele>
+      </trkpt>
+      <trkpt lat="46.35351" lon="6.49246">
+        <ele>521</ele>
+      </trkpt>
+      <trkpt lat="46.35404" lon="6.49263">
+        <ele>519</ele>
+      </trkpt>
+      <trkpt lat="46.35408" lon="6.49267">
+        <ele>519</ele>
+      </trkpt>
+      <trkpt lat="46.35689" lon="6.49415">
+        <ele>500</ele>
+      </trkpt>
+      <trkpt lat="46.35677" lon="6.49561">
+        <ele>523</ele>
+      </trkpt>
+      <trkpt lat="46.35749" lon="6.498">
+        <ele>553</ele>
+      </trkpt>
+      <trkpt lat="46.35734" lon="6.49851">
+        <ele>558</ele>
+      </trkpt>
+      <trkpt lat="46.35732" lon="6.50027">
+        <ele>569</ele>
+      </trkpt>
+      <trkpt lat="46.35632" lon="6.50117">
+        <ele>583</ele>
+      </trkpt>
+      <trkpt lat="46.35576" lon="6.50152">
+        <ele>599</ele>
+      </trkpt>
+      <trkpt lat="46.35632" lon="6.5041">
+        <ele>611</ele>
+      </trkpt>
+      <trkpt lat="46.35533" lon="6.50714">
+        <ele>586</ele>
+      </trkpt>
+      <trkpt lat="46.35531" lon="6.50844">
+        <ele>587</ele>
+      </trkpt>
+      <trkpt lat="46.35573" lon="6.50984">
+        <ele>596</ele>
+      </trkpt>
+      <trkpt lat="46.35739" lon="6.51176">
+        <ele>610</ele>
+      </trkpt>
+      <trkpt lat="46.35775" lon="6.51178">
+        <ele>610</ele>
+      </trkpt>
+      <trkpt lat="46.35822" lon="6.51003">
+        <ele>609</ele>
+      </trkpt>
+      <trkpt lat="46.35679" lon="6.51451">
+        <ele>613</ele>
+      </trkpt>
+      <trkpt lat="46.35775" lon="6.51419">
+        <ele>613</ele>
+      </trkpt>
+      <trkpt lat="46.35892" lon="6.51539">
+        <ele>603</ele>
+      </trkpt>
+      <trkpt lat="46.35863" lon="6.51615">
+        <ele>596</ele>
+      </trkpt>
+      <trkpt lat="46.357" lon="6.51641">
+        <ele>616</ele>
+      </trkpt>
+      <trkpt lat="46.35414" lon="6.51801">
+        <ele>619</ele>
+      </trkpt>
+      <trkpt lat="46.35348" lon="6.51761">
+        <ele>620</ele>
+      </trkpt>
+      <trkpt lat="46.35081" lon="6.51987">
+        <ele>630</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
