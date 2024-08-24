@@ -75,7 +75,7 @@
                   "lat": 44.78926706313293,
                   "lng": 6.740241050720216
                 },
-                "query": "",
+                "query": "tag:#camping OR tag:#hotel OR tag:#refuge OR tag:#refugeFermé ",
                 "chosenMapSource": 0,
                 "showLinks": false,
                 "linkColor": "red",

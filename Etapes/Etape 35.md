@@ -9,7 +9,9 @@ locations:
 ## Carto  
 [Début](geo:44.450924,6.846459) tag:hike
 ## Bivouac
-[Gite de Bousiéyas](geo:44.322373,6.86055) tag:refuge ferme mi-octobre
+[Bergerie du Lauzanier](geo:44.3810532,6.870944003346532) tag:cabane non gardée
+[Gite de Bousiéyas](geo:44.32216956066901,6.861079337546763) tag:refuge ferme mi-octobre
+[Le Café à Marius](geo:44.3219397,6.861611) tag:refugeFermé ferme le 10 septembre
 ## Zone Naturelle
 Parc National du Mercantour
 ## Avis
