@@ -19,8 +19,10 @@ Easy, à mont avis on fusionne avec la précédente
 [Lac de Roue](geo:44.7617898,6.767008114269213) tag:lac 
 [Fontaine](geo:44.756656,6.790511) tag:fontaine  
 ## Ravitaillement
+[resto italien La pause du viandiste](geo:44.756565063836575,6.789839897878201)tag:restaurant 
 TO DO
 ## Options de sortie
-
+on est en ville, auto stop
+il y a un bus qui passe dans la ville Chateau-Queryas
 Précédente : [[Etape 29]]
 Suivante : [[Etape 31]]

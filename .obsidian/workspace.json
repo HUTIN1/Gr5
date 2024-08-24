@@ -10,14 +10,70 @@
           {
             "id": "45ffede8d150050d",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "map",
               "state": {
                 "name": "Default",
-                "mapZoom": 16,
+                "mapZoom": 13,
                 "mapCenter": {
-                  "lat": 44.2539854988066,
-                  "lng": 6.926107406616212
+                  "lat": 44.75337093552981,
+                  "lng": 6.7947692808229485
+                },
+                "query": "",
+                "chosenMapSource": 0,
+                "showLinks": false,
+                "linkColor": "red",
+                "queryError": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "831e24b0de06a166",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Etapes/Etape 31.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "4aad93c15d470cec",
+            "type": "leaf",
+            "state": {
+              "type": "map",
+              "state": {
+                "name": "Default",
+                "mapZoom": 15,
+                "mapCenter": {
+                  "lat": 44.791734201752426,
+                  "lng": 6.736086845921818
+                },
+                "query": "",
+                "chosenMapSource": 0,
+                "showLinks": false,
+                "linkColor": "red",
+                "queryError": false
+              }
+            }
+          },
+          {
+            "id": "94b4b342cefe9562",
+            "type": "leaf",
+            "state": {
+              "type": "map",
+              "state": {
+                "name": "Default",
+                "mapZoom": 15,
+                "mapCenter": {
+                  "lat": 44.78926706313293,
+                  "lng": 6.740241050720216
                 },
                 "query": "tag:#camping OR tag:#hotel OR tag:#refuge OR tag:#refugeFermé ",
                 "chosenMapSource": 0,
@@ -28,18 +84,31 @@
             }
           },
           {
-            "id": "5f0dd055a138f686",
+            "id": "63f4e23946e2ba56",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Etapes/Etape 38.md",
+                "file": "Loi_Bivouac.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3fd01fa591f4bed0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comparaison appli rando.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -68,7 +137,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "refugeFer",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,6 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Comparaison appli rando.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Comparaison appli rando.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +213,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Comparaison appli rando.md"
+              }
             }
           }
         ],
@@ -164,34 +237,37 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "45ffede8d150050d",
+  "active": "3fd01fa591f4bed0",
   "lastOpenFiles": [
-    "Etapes/Etape 38.md",
-    "Etapes/Etape 37.md",
-    "Etapes/Etape 36.md",
-    "Etapes/Etape 35.md",
-    "Etapes/Etape 34.md",
-    "Etapes/Etape 33.md",
-    "Etapes/Etape 43.md",
-    "Etapes/Etape 1.md",
-    "Etapes/Etape 2.md",
-    "Etapes/Etape 31.md",
-    "Etapes/Etape 32.md",
-    "Etapes/Etape 29.md",
+    "Loi_Bivouac.md",
+    "Comparaison appli rando.md",
+    "README.md",
+    "Etapes/GR55.md",
+    "Test/maps.md",
+    "44.89376597131342,.md",
+    "comparaison_appli_rando.xlsx",
+    "60578A20",
+    "~$comparaison_appli_rando.xlsx",
     "Etapes/Etape 30.md",
-    "Etapes/Etape 25.md",
-    "Etapes/Etape 28.md",
-    "Etapes/Etape 27.md",
-    "Etapes/Etape 26.md",
+    "Etapes/Etape 31.md",
+    "Etapes/Etape 29.md",
     "Etapes/Etape 24.md",
-    "Etapes/Etape 23.md",
+    "Etapes/Etape 25.md",
+    "Etapes/Etape 26.md",
+    "Etapes/Etape 27.md",
+    "Etapes/Etape 28.md",
+    "Etapes/Etape 32.md",
     "Etapes/Etape 22.md",
-    "Etapes/Etape 17.md",
-    "Etapes/Etape 18.md",
-    "Etapes/Etape 16.md",
-    "Etapes/Etape 15.md",
-    "Etapes/Etape 8.md",
+    "Etapes/Etape 23.md",
+    "Etapes/Etape 36.md",
+    "Etapes/Etape 34.md",
     "Etapes/Etape 45.md",
+    "Etapes/Etape 44.md",
+    "Etapes/Etape 43.md",
+    "Etapes/Etape 42.md",
+    "Etapes/Etape 41.md",
+    "Etapes/Etape 40.md",
+    "Etapes/Etape 39.md",
     "Untitled.canvas",
     "Etapes"
   ]

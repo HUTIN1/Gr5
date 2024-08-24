@@ -20,8 +20,8 @@ ETAPE DE MERDE
 [Torrent des Ayes](geo:44.845022,6.659089) tag:rivière
 ## Ravitaillement
 [Le Jamberoute](geo:44.79476,6.723952) tag:restaurant 
-TO DO
+[leclerc briançon](geo:44.8937659,6.6350072) tag:restaurant
 ## Options de sortie
-
+On est a Briançon [gare](geo:44.88985750364224,6.632994906547382)
 Précédente : [[Etape 28]]
 Suivante : [[Etape 30]]
