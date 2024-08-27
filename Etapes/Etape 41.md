@@ -3,9 +3,9 @@ locations:
 ---
 ## Récap topo
 
-| Départ/arrivée                | Temps de marche | Distances | Dénivelés         |
-| :---------------------------- | :-------------- | :-------- | :---------------- |
-| Roure - Rimplas               | 3h              | 7 km      | +600 m / –700 m   |
+| Départ/arrivée  | Temps de marche | Distances | Dénivelés       |
+| :-------------- | :-------------- | :-------- | :-------------- |
+| Roure - Rimplas | 3h              | 7 km      | +600 m / –700 m |
 
 ## Carto  
 [Début](geo:44.090547,7.088384) tag:hike

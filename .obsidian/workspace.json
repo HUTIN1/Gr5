@@ -15,10 +15,10 @@
               "type": "map",
               "state": {
                 "name": "Default",
-                "mapZoom": 13,
+                "mapZoom": 10,
                 "mapCenter": {
-                  "lat": 44.75337093552981,
-                  "lng": 6.7947692808229485
+                  "lat": 45.27506256769255,
+                  "lng": 6.697540283203125
                 },
                 "query": "",
                 "chosenMapSource": 0,
@@ -64,51 +64,31 @@
             }
           },
           {
-            "id": "94b4b342cefe9562",
-            "type": "leaf",
-            "state": {
-              "type": "map",
-              "state": {
-                "name": "Default",
-                "mapZoom": 15,
-                "mapCenter": {
-                  "lat": 44.78926706313293,
-                  "lng": 6.740241050720216
-                },
-                "query": "tag:#camping OR tag:#hotel OR tag:#refuge OR tag:#refugeFermé ",
-                "chosenMapSource": 0,
-                "showLinks": false,
-                "linkColor": "red",
-                "queryError": false
-              }
-            }
-          },
-          {
-            "id": "63f4e23946e2ba56",
+            "id": "7d8b3312f99065b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loi_Bivouac.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3fd01fa591f4bed0",
+            "id": "c80cbe618be7d2f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comparaison appli rando.md",
+                "file": "Checklist Axel.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -174,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comparaison appli rando.md",
+                "file": "Checklist Axel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Comparaison appli rando.md",
+                "file": "Checklist Axel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Comparaison appli rando.md"
+                "file": "Checklist Axel.md"
               }
             }
           }
@@ -237,11 +217,25 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "3fd01fa591f4bed0",
+  "active": "c80cbe618be7d2f3",
   "lastOpenFiles": [
-    "Loi_Bivouac.md",
-    "Comparaison appli rando.md",
     "README.md",
+    "Checklist Axel.md",
+    "Loi_Bivouac.md",
+    "Etapes/Etape 39.md",
+    "Etapes/Etape 33.md",
+    "Etapes/Etape 34.md",
+    "Etapes/Etape 36.md",
+    "Etapes/Etape 14.md",
+    "Etapes/Etape 4.md",
+    "Comparaison appli rando.md",
+    "Etapes/Etape 13.md",
+    "Etapes/Etape 12.md",
+    "Etapes/Etape 10.md",
+    "Etapes/Etape 9.md",
+    "Etapes/Etape 42.md",
+    "Etapes/Etape 41.md",
+    "Etapes/Etape 31.md",
     "Etapes/GR55.md",
     "Test/maps.md",
     "44.89376597131342,.md",
@@ -249,25 +243,11 @@
     "60578A20",
     "~$comparaison_appli_rando.xlsx",
     "Etapes/Etape 30.md",
-    "Etapes/Etape 31.md",
     "Etapes/Etape 29.md",
     "Etapes/Etape 24.md",
     "Etapes/Etape 25.md",
     "Etapes/Etape 26.md",
     "Etapes/Etape 27.md",
-    "Etapes/Etape 28.md",
-    "Etapes/Etape 32.md",
-    "Etapes/Etape 22.md",
-    "Etapes/Etape 23.md",
-    "Etapes/Etape 36.md",
-    "Etapes/Etape 34.md",
-    "Etapes/Etape 45.md",
-    "Etapes/Etape 44.md",
-    "Etapes/Etape 43.md",
-    "Etapes/Etape 42.md",
-    "Etapes/Etape 41.md",
-    "Etapes/Etape 40.md",
-    "Etapes/Etape 39.md",
     "Untitled.canvas",
     "Etapes"
   ]
