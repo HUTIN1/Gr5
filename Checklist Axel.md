@@ -4,43 +4,44 @@
 - [x] Sac étanche
 ## Bivouac
 - [x] Tente -> Nathan
-- [ ] Matelas de sol
-- [ ] Sac de couchage
-- [x] Drap de soie
-- [ ] Réchaud + gaz
-- [ ] Casserole/plat
+- [x] Matelas de sol -> Loïs
+- [x] Sac de couchage 
+- [x] Cocon de soie -> Massou
+- [x] Réchaud + gaz -> Loïs
+- [x] Casserole/plat --> Loïs
 - [x] Allume gaz
 - [x] Gourdes
 - [x] Gourde filtrante
 - [x] Couteau
 - [x] Couvert
 - [x] Frontale
-- [ ] Plat lyophilisé
+- [x] Plat lyophilisé
 ## Vêtements
 - [x] Chaussure de rando + semelles
 - [ ] Tong
 - [ ] Cape de pluie
-- [ ] Doudoune ?
-- [ ] Polaire
-- [ ] T-shirt céramique
-- [ ] Pantalon
-- [ ] Sous-vêtement
-- [ ] Chaussettes (3)
+- [x] Doudoune ?
+- [x] Polaire
+- [x] T-shirt céramique
+- [x] Pantalon
+- [ ] Collant mérinos
+- [ ] Caleçon
+- [x] Chaussettes (3)
 - [x] Gants légers
-- [ ] Gants plus épais ?
 - [x] Cache col/Bonnet
 - [x] Lunettes de soleil
 - [x] Lunettes de vue
 - [x] Bouchons anti-bruit
 - [x] Chapeau
+- [x] maillot de bain
 ## Trousse de toilette
 - [x] Serviette
-- [ ] Savon
+- [ ] Savon du turfu
 - [x] Brosse à dent
 - [x] Dentifrice
 - [x] PQ
 ## Pharmacie
-- [x] Nok
+- [ ] Nok (nouveau tube)
 - [ ] Crème solaire (nouveau tube)
 - [x] Pansement
 - [x] Doliprane
@@ -49,9 +50,10 @@
 - [x] Gel anti-ampoule/seconde peau (compeed)
 - [x] Anti-constipation (Smecta)
 - [x] Couverture de survie
-- [ ] Antiseptique (Mercurochrome...)
+- [x] Antiseptique (Mercurochrome...) --> nathan
+- [x] baume à levre -> nathan
 - [x] Bande crêpe
-- [ ] Complément alimentaire minéraux
+- [ ] Complément alimentaire minéraux (hydratis)
 - [x] Sachet mouchoir
 - [x] Collyre antiseptique
 - [x] Pince à épiler
@@ -61,7 +63,8 @@
 - [x] Sac poubelle
 - [x] Bâton de marche
 - [x] Cordelette
-- [ ] Batterie solaire
+- [x] Batterie 
+- [x] Panneau solaire -> Nathan
 - [x] Chargeurs 
 - [x] Serre-flex
 - [x] Appli de rando
